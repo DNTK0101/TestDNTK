@@ -1,1 +1,2 @@
 # TestDNTK
+# đồng bộ git
